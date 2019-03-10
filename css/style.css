@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+}
+
+html,body{
+	background-color: #e8e8e8;
+}
+ul,ol{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	cursor: pointer;
+}
+input:focus,button,a{
+	outline: none;
+}
